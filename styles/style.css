@@ -80,7 +80,7 @@ img {
 	height: 28px;
 	color: #64099b;
 	font-size: 12px;
-	background-image: url("/image/bag-2.svg");
+	background-image: url("../image/bag-2.svg");
 	background-position: center;
 	background-repeat: no-repeat;
 	text-align: center;
