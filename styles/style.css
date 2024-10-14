@@ -154,8 +154,7 @@ padding: 100px 0;
 	margin-bottom: 4px;
 	overflow: hidden;
 	text-overflow: ellipsis;
-  display: -webkit-box;
-	-webkit-line-clamp: 2;
+  display: -webkit-box;	
 	-webkit-box-orient: vertical;
 }
 .product__price {
